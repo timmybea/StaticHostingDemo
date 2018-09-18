@@ -1,7 +1,7 @@
 {
-"id": 0001
-"firstname": "Tim",
-"lastname": "Beals",
+"id": 0001,
+"first_name": "Tim",
+"last_name": "Beals",
 "email" : "tbeals@roobicreative.com",
 "imageEndPoint": "something"
 }
