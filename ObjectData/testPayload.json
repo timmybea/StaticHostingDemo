@@ -1,23 +1,7 @@
-[
 {
 "id": 0001,
 "first_name": "Matthew",
 "last_name": "Williams",
 "email": "sebastian@roobicreative.com",
 "image_end_point": ""
-},
-{
-"id": 0002,
-"first_name": "Steve",
-"last_name": "Walker",
-"email": "steve@roobicreative.com",
-"image_end_point": ""
-},
-{
-"id": 0003,
-"first_name": "Rebecca",
-"last_name": "Answorth",
-"email": "ann@roobicreative.com",
-"image_end_point": ""
 }
-]
