@@ -1,6 +1,5 @@
 {
-"first_name": "Tim",
-"last_name": "Beals",
-"email" : "tbeals@roobicreative.com",
-"imageEndPoint": "something"
+  "first_name": "Tim",
+  "last_name" : "Beals",
+  "id": 0001
 }
